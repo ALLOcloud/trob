@@ -1,6 +1,6 @@
 # Safe Function Transform (aka. trob)
 
-[![Build Status](https://travis-ci.org/allocloud/trob.svg?branch=master)](https://travis-ci.org/allocloud/trob) [![dependencies Status](https://david-dm.org/allocloud/trob/status.svg)](https://david-dm.org/allocloud/trob) [![devDependencies Status](https://david-dm.org/allocloud/trob/dev-status.svg)](https://david-dm.org/allocloud/trob?type=dev) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![npm version](https://badge.fury.io/js/trob.svg)](https://badge.fury.io/js/trob) [![Build Status](https://travis-ci.org/allocloud/trob.svg?branch=master)](https://travis-ci.org/allocloud/trob) [![dependencies Status](https://david-dm.org/allocloud/trob/status.svg)](https://david-dm.org/allocloud/trob) [![devDependencies Status](https://david-dm.org/allocloud/trob/dev-status.svg)](https://david-dm.org/allocloud/trob?type=dev) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A small utility function to run a function on either an array of objects or an object without knowing the argument type before.
 
